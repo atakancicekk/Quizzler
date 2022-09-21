@@ -25,3 +25,9 @@ I am taking one step further in my journey of becoming an app developer. It is m
 * Compare Swift Classes with Swift Structs and know when to use which.
 * Learn about Object Oriented Programming.
 * How to refactor code and stay organised.
+
+
+# License
+
+MIT
+**Free Software, Hell Yeah!**
