@@ -6,8 +6,7 @@
 
 I am taking one step further in my journey of becoming an app developer. It is my first project built using the holy grail of mobile design patterns: the Model View Controller (MVC) pattern. I built a trivia quiz app. 
 
-<img src="https://user-images.githubusercontent.com/55702254/191530962-9bf20099-6458-41c3-85ce-c8af3c403f84.PNG" height="400" />
-<img src="https://user-images.githubusercontent.com/55702254/191530140-388277f7-f720-41c1-86c7-560f5851630d.jpeg" height="400" />
+<img src="https://user-images.githubusercontent.com/55702254/191530962-9bf20099-6458-41c3-85ce-c8af3c403f84.PNG" height="400" /> <img src="https://user-images.githubusercontent.com/55702254/191530140-388277f7-f720-41c1-86c7-560f5851630d.jpeg" height="400" />
 
 
 
